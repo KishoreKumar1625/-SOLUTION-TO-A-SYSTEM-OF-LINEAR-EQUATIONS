@@ -14,9 +14,9 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-#Program to find the solution for the given linear equations.
-#Developed by: Kishore kumar.P
-#RegisterNumber:26002452
+##Program to find the solution for the given linear equations.
+##Developed by: Kishore kumar.P
+##RegisterNumber:26002452
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 
