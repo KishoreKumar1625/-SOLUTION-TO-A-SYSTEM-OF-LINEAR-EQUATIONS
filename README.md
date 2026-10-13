@@ -27,6 +27,7 @@ os.environ["OPENBLAS_NUM_THREADS"] = "1"
 import numpy as np
 
 A = np.array([[1, 3], [2, 5]])
+
 B = np.array([5, -3])
 
 C = np.linalg.solve(A, B)
